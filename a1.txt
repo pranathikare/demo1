@@ -1,1 +1,2 @@
 This is a a1.txt file
+Editing from git GUI
